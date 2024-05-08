@@ -8,7 +8,7 @@ This is a end to end analytics project using Python and SQL. We have used kaggle
 ## Steps in this analysis-
 
 1. Data import and extraction
-   -- import kaggle on jupyter notebook and download data using kaggle api <\br>
+   -- import kaggle on jupyter notebook and download data using kaggle api </br>
    nsdmsmds
 
 
